@@ -1,0 +1,5 @@
+{
+    "token":"Your discord bot token",
+    "role": "ID for the role to give",
+    "command": "command to run the script (eg +devrole)"
+}
